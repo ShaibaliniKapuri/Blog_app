@@ -1,3 +1,8 @@
+This is a simple social media application built using flask framework. 
+Simple blogs with images can be posted by the user. The Users may as well follow each other and like and comment on each others posts.
+
+###############################################
+
 #Local Setup
 - Clone the project
 
